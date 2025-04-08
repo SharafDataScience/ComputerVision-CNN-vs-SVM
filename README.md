@@ -11,7 +11,7 @@ This project compares **Convolutional Neural Networks (CNNs)** and **Support Vec
   - **Test Images:** 1,000
   - **Classes:** 10 (e.g., airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck)
 
-## ⚙Methodologies
+## Methodologies
 
 ### 1. CNN Model
 
