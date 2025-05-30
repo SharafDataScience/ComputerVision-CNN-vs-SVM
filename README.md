@@ -47,8 +47,8 @@ This project compares **Convolutional Neural Networks (CNNs)** and **Support Vec
 
 | Model | Test Accuracy |
 |-------|---------------|
-| CNN   | 55.4%         |
-| SVM   | 53.8%         |
+| CNN   | 78.4%         |
+| SVM   | 54.0%         |
 
 - **CNN Pros:** Learns features automatically, better performance
 - **SVM Pros:** Faster training, interpretable features using HOG
