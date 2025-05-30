@@ -66,6 +66,13 @@ This project compares **Convolutional Neural Networks (CNNs)** and **Support Vec
 - Handle class imbalance
 - Explore larger and diverse datasets
 - Improve CNN interpretability using explainability tools
+To run your CNN and SVM image recognition project using a subset of the CIFAR-10 dataset, you'll need to:
+
+## Run the project
+1- Install the required libraries.
+  - pip install numpy pandas matplotlib seaborn scikit-learn scikit-image tensorflow keras
+2- Load and preprocess the data.
+  - from tensorflow.keras.datasets import cifar10
 
 
 ---
